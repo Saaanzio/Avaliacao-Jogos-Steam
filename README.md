@@ -1,3 +1,5 @@
+Base do Kaggle: https://www.kaggle.com/datasets/waddahali/top-1000-steam-games-20242026
+
 ## Como rodar o projeto
 
 ### 1. Criar e ativar o ambiente virtual (Recomendado)
