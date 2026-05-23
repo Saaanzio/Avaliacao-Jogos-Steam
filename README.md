@@ -1,4 +1,4 @@
-Como rodar o projeto
+#Como rodar o projeto
 1. Criar e ativar o ambiente virtual (Recomendado)
 Criar um ambiente virtual (venv) para este projeto.
 
