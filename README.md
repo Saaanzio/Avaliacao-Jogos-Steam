@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ### 2. Executar a aplicação
 
 ```bash
-streamlit run showrater/app.py
+streamlit run Home.py
 ```
 
 A aplicação deverá abrir automaticamente no seu navegador. Caso não abra, o Streamlit fornecerá um link com a `URL` no terminal.
