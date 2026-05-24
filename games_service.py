@@ -7,10 +7,13 @@ df = df[[
     "AppID",
     "Name",
     "Price_USD",
+    "Discount_Pct",
     "Review_Score_Pct",
     "Total_Reviews",
     "Primary_Genre",
-    "Release_Date"
+    "Release_Date",
+    "Estimated_Owners",
+    "24h_Peak_Players"
 ]]
 
 def get_unprocessed_data():
